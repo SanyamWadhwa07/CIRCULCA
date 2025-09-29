@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# CIRCULCA
-=======
+
 # CircuLCA - AI-Driven Life Cycle Assessment Dashboard
 
 ## Project Overview
